@@ -58,7 +58,7 @@ Ensure all dependencies are installed using pip or npm before running the projec
 
 Amulya focused on developing and optimizing machine learning models for disease detection. He worked with TensorFlow and Scikit-Learn to improve prediction accuracy and integrated AI capabilities into the system.
 
-## Akshat Jain - Backend Lead
+## Akshat Jain - Backend Lead & Project Lead
 
 Akshat handled the backend architecture, API development, and database management. He ensured seamless communication between the AI models and the web application using FastAPI and MongoDB.
 
@@ -69,6 +69,10 @@ Aryan designed and implemented the user interface using React.js. He also took c
 ## Nishit Kumar - Backend Developer
 
 Nishit worked on backend infrastructure and system security, implementing authentication mechanisms and optimizing performance for a scalable SaaS model.
+
+## Raj Bathla - Backend Developer
+
+Raj contributed to building and maintaining the backend infrastructure, focusing on API development and database integration. He collaborated closely with the team to implement core functionalities, optimize data workflows, and ensure secure, efficient communication between the AI models and the web application.
 
 # Future Plans
 
